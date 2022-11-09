@@ -8,7 +8,7 @@ Los usuarios podrán optar por paquetes de diferentes costos de acuerdo a los se
 
 Además, tendrán la posibilidad de calificar su estadía y dejar comentarios, como también hacer preguntas respecto a los servicios en los que se encuentre interesado.
 
-# Usuarios:
+** Usuarios: **
 
 •	Los usuarios podrán registrarse con un correo electrónico o vía Google "Continue with Google", para poder realizar una reserva y/o contratar servicios.
 
@@ -18,7 +18,7 @@ Además, tendrán la posibilidad de calificar su estadía y dejar comentarios, c
 
 •	Contarán también con la posibilidad de seleccionar favoritos.
 
-# Administrador:
+** Administrador: **
 
 •	El administrador tendrá el control de la contratación de servicios y las reservas realizadas, podrá agregar, modificar y eliminar servicios. 
 
@@ -63,7 +63,8 @@ Además, tendrán la posibilidad de calificar su estadía y dejar comentarios, c
 
 
 
-**Equipo de desarrollo**
+
+# Equipo de desarrollo
 
 1. Maira Fernanda Bravo Madrid.
 2. Maria de los Angeles Gallardo.
