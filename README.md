@@ -31,7 +31,7 @@ Además, tendrán la posibilidad de calificar su estadía y dejar comentarios, c
 
  # Pasos para levantar el proyecto:
 
-•	Clonar el repositerio en una carpeta del ordenador.
+•	Clonar el repositorio en una carpeta del ordenador.
 •	Abrir la carpeta en Visual Studio Code.
 •	Crear una base de datos en PostgreSQL con el nombre de "WorldDevDB".
 •	Hacer click derecho en la carpeta "WorlDev-Back" y abrir la terminal integrada, escribir el comando "npm install", luego "npm start".
